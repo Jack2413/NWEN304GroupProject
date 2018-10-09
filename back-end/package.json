@@ -1,0 +1,25 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "RESTful web service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack2413/RESTful-web-service.git"
+  },
+  "author": "Jack Gan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack2413/RESTful-web-service/issues"
+  },
+  "homepage": "https://github.com/Jack2413/RESTful-web-service#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
+  }
+}
